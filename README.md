@@ -1,5 +1,5 @@
 # Blockchain
-Implementation of two simple proof-of-work blockchains for Quant Club, IIT Kharagpur
+Implementation of two simple proof-of-work blockchains for Quant Club, IIT Kharagpur.
 
 For blockchain1.py file, the code is self explainatory. Simply, change the difficulty and observe how many hashes it needs to calculate as the target changes!
 
