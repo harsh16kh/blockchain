@@ -8,6 +8,6 @@ and create a new workspace.
 
 In the GET HTTP request box enter the following URLs after running this python file on your system:
 
--> http://127.0.0.1:5000/mine_block to mine a new block.
--> http://127.0.0.1:5000/get_chain to get the entire chain.
--> http://127.0.0.1:5000/is_valid to check if the whole chain is valid or not.
+*http://127.0.0.1:5000/mine_block to mine a new block.
+*http://127.0.0.1:5000/get_chain to get the entire chain.
+*http://127.0.0.1:5000/is_valid to check if the whole chain is valid or not.
