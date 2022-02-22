@@ -3,7 +3,7 @@ Implementation of two simple proof-of-work blockchains for Quant Club, IIT Khara
 
 For blockchain1.py file, the code is self explainatory. Simply, change the difficulty and observe how many hashes it needs to calculate as the target changes!
 
-For blockchain2.py, download Postman to accept our API request from https://www.postman.com/downloads/ or you directly use the web version instead from https://web.postman.co/
+For blockchain2.py, download Postman to accept your API request from https://www.postman.com/downloads/ or you directly use the web version instead from https://web.postman.co/
 and create a new workspace.
 
 In the GET HTTP request box enter the following URLs after running this python file on your system:
